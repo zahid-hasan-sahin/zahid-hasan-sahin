@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zahid hasan sahin
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning Data Struccture and Algorithm
-- 💞️ I have solved more than 800+ problem in many online judge
+- 💞️ I have solved more than 1200+ problem in many online judge
 - 📫 reach me using zahidhasan6112@gmail.com
