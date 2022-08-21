@@ -36,9 +36,9 @@
 
 <div>
 <b>⚡ Github Stats</b>
-<p float="left" width="45%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahid-hasan-sahin&show_icons=true&locale=en&layout=compact" alt="zahid-hasan-sahin" width="45%"/></p>
+<p float="left" width="45%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahid-hasan-sahin&show_icons=true&locale=en&layout=compact" alt="zahid-hasan-sahin" width="49%"/></p>
 
-<p  float="right" width="45%">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zahid-hasan-sahin&show_icons=true&locale=en" alt="zahid-hasan-sahin"  width="45%" /></p>
+<p  float="right" width="45%">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zahid-hasan-sahin&show_icons=true&locale=en" alt="zahid-hasan-sahin"  width="49%" /></p>
 </div>
 
 <div float="left">
