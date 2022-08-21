@@ -1,7 +1,17 @@
-<h1 align="center">Hi 👋, I'm Zahid hasan</h1>
-<h3 align="center">A passionate Competitve Programmer</h3>
+<h1>Hi 👋, I'm Zahid hasan</h1>
+<h3>A passionate Competitve Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahid-hasan-sahin&label=Profile%20views&color=0e75b6&style=flat" alt="zahid-hasan-sahin" /> </p>
+
+  <a href="https://codeforces.com/profile/sudipto.me">
+    <img src="https://raw.githubusercontent.com/zahid_hasan_sahin/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a>
+ 
+  <a href="https://github.com/sudiptob2?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/zahid-hasan-sahin?color=green&logo=github">
+  </a>
+  <a href="https://github.com/zahid-hasan-sahin/">
+    <img src="https://komarev.com/ghpvc/?username=zahid-hasan-sahin" alt="visitors" />
+  </a>
 
 - 🌱 I’m currently learning **Spring framework**
 
