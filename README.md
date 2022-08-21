@@ -2,7 +2,7 @@
 <h3>A passionate Competitve Programmer</h3>
 
 
-   <a href="https://codeforces.com/profile/zahid_hasan_sahin.me">
+   <a href="https://codeforces.com/profile/Zahid_Hasan_Sahin">
     <img src="https://github.com/zahid-hasan-sahin/zahid-hasan-sahin/blob/main/codeforces/max_rating.svg" alt="Leet code rating" />
   </a>
  
