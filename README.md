@@ -42,7 +42,7 @@
 
 
 <b>&#128200; Competitive Programming</b>
-<p float="center">
+<p float="left">
 <img height="280em" src="https://github.com/zahid-hasan-sahin/zahid-hasan-sahin/blob/main/light_card.svg" />
 </p>
 
