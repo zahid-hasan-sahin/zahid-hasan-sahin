@@ -36,9 +36,8 @@
 
 <div>
 <b>⚡ Github Stats</b>
-<p width="48%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahid-hasan-sahin&show_icons=true&locale=en&layout=compact" alt="zahid-hasan-sahin" width="48%"/></p>
-
-<p width="48%">&nbsp;<img   align="right"  src="https://github-readme-stats.vercel.app/api?username=zahid-hasan-sahin&show_icons=true&locale=en" alt="zahid-hasan-sahin"  width="48%"/></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahid-hasan-sahin&show_icons=true&locale=en&layout=compact" alt="zahid-hasan-sahin" width="48%"/>
+<img   align="right"  src="https://github-readme-stats.vercel.app/api?username=zahid-hasan-sahin&show_icons=true&locale=en" alt="zahid-hasan-sahin"  width="48%"/></p>
 </div>
 
 <br>
