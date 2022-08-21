@@ -2,8 +2,8 @@
 <h3>A passionate Competitve Programmer</h3>
 
 
-   <a href="https://codeforces.com/profile/sudipto.me">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+   <a href="https://codeforces.com/profile/zahid_hasan_sahin.me">
+    <img src="https://github.com/zahid-hasan-sahin/zahid-hasan-sahin/blob/main/codeforces/max_rating.svg" alt="Leet code rating" />
   </a>
  
   <a href="https://github.com/zahid-hasan-sahin?tab=followers">
