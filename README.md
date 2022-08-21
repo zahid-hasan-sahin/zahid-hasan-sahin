@@ -41,9 +41,9 @@
 <p  float="right" width="45%">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zahid-hasan-sahin&show_icons=true&locale=en" alt="zahid-hasan-sahin"  width="45%" /></p>
 </div>
 
-<div>
-<b>&#128200; Competitive Programming</b>
-<p >
+<div float="left">
+<b float="left">&#128200; Competitive Programming</b>
+<p float="left">
 <img height="280em" src="https://github.com/zahid-hasan-sahin/zahid-hasan-sahin/blob/main/light_card.svg" />
 </p>
 </div>
